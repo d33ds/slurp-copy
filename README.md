@@ -1,3 +1,5 @@
+# This is not mine. This is a clone of a long gone git
+
 Enumerates S3 buckets manually or via certstream
 
 ## Overview
